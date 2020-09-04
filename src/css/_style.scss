@@ -6,6 +6,21 @@ body {
     }
     padding-top: 3rem;
     background-color: $color-initial;
+
+    p {
+        color: $color-primary;
+    }
+    a {
+        color: $color-secondary;
+    }
+
+    .footer {
+        text-align: center;
+
+        a img {
+            height: 5rem;
+        }
+    }
 }
 
 #kanopy-list {

@@ -2,6 +2,7 @@ import '../css/main.scss';
 import '../fonts/Larsseit.woff';
 import '../imgs/external-link.svg';
 import '../imgs/kanopy-logo.jpg';
+import '../imgs/GitHub-Mark-64px.png';
 
 import $ from 'jquery';
 import dt from 'datatables.net/js/jquery.dataTables.min.js';
