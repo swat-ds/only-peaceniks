@@ -18,7 +18,11 @@ body {
         text-align: center;
 
         a img {
-            height: 5rem;
+            height: 4rem;
+        }
+
+        a:hover img {
+            opacity: .5;
         }
     }
 }

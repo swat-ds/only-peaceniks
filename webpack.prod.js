@@ -24,7 +24,12 @@ module.exports = {
       {
         test: /\.s[ac]ss$/,
         use: [
-          MiniCssExtractPlugin.loader,'css-loader','sass-loader']
+          {loader: MiniCssExtractPlugin.loader,
+          options: { publicPath: '../' }
+        },
+          'css-loader',
+          'sass-loader'
+        ],
       },
       {
         test: /\.(png|jpe?g|gif|svg)$/i,
@@ -32,9 +37,7 @@ module.exports = {
           {
             loader: 'file-loader',
             options: {
-              name: "[name].[hash].[ext]",
-              outputPath: "imgs",
-              publicPath: "../imgs"       
+              name: "imgs/[name].[hash].[ext]"
             }
           }
         ]
@@ -48,9 +51,7 @@ module.exports = {
         use: {
             loader: 'file-loader',
             options: {
-              name: "[name].[hash].[ext]",
-              outputPath: "fonts",
-              publicPath: "../fonts"
+              name: "fonts/[name].[hash].[ext]"
             }
         }
 
