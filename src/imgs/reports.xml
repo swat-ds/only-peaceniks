@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<report><QueryResult>
+  <ResumptionToken>D554BABF60D80E48DA438E60AC48071153E62EB58937EEAEAA82502EF4D1AD8A0057B1FB5B9F5167562E6EE04C45EBEA163D8CC5881FFC5A208117904853089A</ResumptionToken>
+  <IsFinished>true</IsFinished>
+  <ResultXml>
+    <rowset xmlns="urn:schemas-microsoft-com:xml-analysis:rowset">
+      <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:saw-sql="urn:saw-sql" targetNamespace="urn:schemas-microsoft-com:xml-analysis:rowset">
+        <xsd:complexType name="Row">
+          <xsd:sequence>
+            <xsd:element maxOccurs="1" minOccurs="0" name="Column0" saw-sql:columnHeading="0" saw-sql:displayFormula="saw_0" saw-sql:tableHeading="" saw-sql:type="integer" type="xsd:int"/>
+            <xsd:element maxOccurs="1" minOccurs="0" name="Column1" saw-sql:columnHeading="Title" saw-sql:displayFormula="saw_1" saw-sql:tableHeading="-- Bibliographic Details" saw-sql:type="varchar" type="xsd:string"/>
+            <xsd:element maxOccurs="1" minOccurs="0" name="Column2" saw-sql:columnHeading="Portfolio Public Note" saw-sql:displayFormula="saw_2" saw-sql:tableHeading="Portfolio" saw-sql:type="varchar" type="xsd:string"/>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:schema>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Scenes from a Marriage - Theatrical Version.</Column1>
+        <Column2>Access expires October 31. 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Special Treatment.</Column1>
+        <Column2>Access expires October 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Race-- the power of an illusion.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Shinjuku Boys</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Inventor.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The phone call.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Suspiria.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>For the Bible Tells Me So.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Sex &amp; Lucía.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>La Yuma</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Maurice.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Climate Wars: Gwynne Dyer</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Good Time.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Frontline - Ghosts of Rwanda</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>20th Century Women.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Right Now, Wrong Then</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A Girl Walks Home Alone at Night</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Her Smell.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Kaili Blues Lu bian ye can.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Frantz Fanon: Black Skin, White Mask.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Richard III.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Reel Injun.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Joystick warriors : video games, violence &amp; the culture of militarism /</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Super Size Me 2: Holy Chicken!.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Other Son.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Of Fathers and Sons.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A Dangerous Son.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>3 (Three).</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Hunt for the wilderpeople.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Nosferatu.</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Out in the Dark</Column1>
+        <Column2>Access expires October 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Wanted 18 - The Israeli Army's Pursuit of 18 Cows</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Regarding Susan Sontag</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Granny O'Grimm's Sleeping Beauty</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Marina Abramovic : The Artist is Present.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Detainment.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Granito : How to Nail a Dictator.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Love Is More than I Can Handle</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A trip to the moon : in its original 1902 colors/the extraordinary voyage.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Aya.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Weekend.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Mosquita &amp; Mari</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Machuca</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Episode 1: Promises Betrayed (1865 - 1896)</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Lobster.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Episode 2: Fighting Back (1896 - 1917)</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Rat Film.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Nelly &amp; Monsieur Arnaud.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Man with a movie camera.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Close-up.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Happy Hour.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Jean-Michel Basquiat: The Radiant Child</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Art &amp; Copy.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Slavery by Another Name.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Settlers</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Born in flames.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Hockney.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>I've Just Had a Dream</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The 400 blows.</Column1>
+        <Column2>Access expires October 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>My depression : The up and down and up of it.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A tale of two sisters.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Sátántangó.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Colette.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Autumn Sonata.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Polytechnique.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A Town Called Panic.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Genius Party.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>This Ain't No Mouse Music</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A Brighter Summer Day.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Belle de Jour.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Russian Woodpecker.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Rest I Make Up.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Dial M for Murder.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Enthusiasm: Symphony of the Donbass</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>My dinner with Andre.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Bettie Page Reveals All</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Turn it Around.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Pity.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Passages of Walter Benjamin.</Column1>
+        <Column2>Access expires May 29, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>McQueen.</Column1>
+        <Column2>Access expires May 1. 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Orgasm Inc.</Column1>
+        <Column2>Access expires May 1. 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>What we do in the shadows.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Il posto.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Giant Little Ones.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Skin.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>What Is Democracy?.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Chicano Episode 2: The Struggle in the Fields</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Caravaggio.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Enduring Passion for Ink</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Columbus.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Antonio Lopez: Sex, Disco &amp; Fashion.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Insomnia</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Souvenir.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A man escaped.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Beware the slenderman.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Faces Places.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Living End</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Paradise Hills.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A midsummer night's dream.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Playtime</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Urbanized.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Turin Horse.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Variety.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Before a Rooster Crows.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Ajami.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Pervert's Guide To Ideology.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Poison.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Mask You Live In.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Odette Toulemonde.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Aztecs</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Night of the Living Dead.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Infinite Football.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Moonlight.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The seventh seal.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Summertime.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Wings of desire.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Tampopo.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Barbara.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Digital disconnect  : how capitalism is turning the internet against democracy.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>In the Soup.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>La haine.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Code unknown.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The last laugh.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Night and fog.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Embrace Of The Serpent.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>White Zombie.</Column1>
+        <Column2>Access expires May 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Funny Games.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Last Black Man in San Francisco.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Girl in the Fog.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Mademoiselle C.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Hot Summer (Heisser Sommer).</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Seven Samurai.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Last Colony</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Long Day's Journey into Night.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Chicano! : the history of the Mexican American civil rights movement.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Green Days by the River.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Midsommar.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Stray dog.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Chicano! : history of the Mexican American civil rights movement.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>First Reformed.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Kiss me.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Monsieur &amp; Madame Adelman.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Devil's Miner </Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Hannah Arendt.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Vive L'Amour.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Hotel Mumbai.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Stagecoach.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Trend Beacons.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Westwood: Punk. Icon. Activist.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Student and Mr. Henri.</Column1>
+        <Column2>Access expires March 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>World on a Wire</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Tricked.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Structural family therapy /</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The rules of the game.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Intimacy.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Lore</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Last Man On Earth.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Out in the night.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Ward no. 6.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Lady Bird.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>I am not your negro.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Battleship Potemkin.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>High Life.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Cleo from 5 to 7.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Children of paradise.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Sensitivity Training.</Column1>
+        <Column2>Access expires March 17, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Art of Self-Defense.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>I Am Not a Witch.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Gender Matters - Transgender Youth</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>BPM (Beats Per Minute).</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A Woman Under the Influence</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Gender Matters</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>BPM</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Rafiki</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Three Colors</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Art of Self-Defense</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Kirschrot</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Harakiri</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Witch.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Queen of Diamonds.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Harakiri.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Rafiki.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Feeding Frenzy</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Great Beauty</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A woman under the influence.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Divine Intervention</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>People like us-- Social class in America.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Queen of Diamonds</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>People Like Us</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>No Sweat</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Great Beauty.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Divine Intervention.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Tokyo story.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Witch</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Kirschrot (Cherry-Red).</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Tokyo Story</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>1971 - The Citizens' Commission to Investigate the FBI</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The birth of a nation.</Column1>
+        <Column2>Access expires March 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>War Photographer</Column1>
+        <Column2>Access expires June 30,2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Blush.</Column1>
+        <Column2>Access expires June 30, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Disobedience.</Column1>
+        <Column2>Access expires June 30, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Meru.</Column1>
+        <Column2>Access expires June 30, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Elles.</Column1>
+        <Column2>Access expires June 30, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>James Thurber: The Life and Hard Times</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Eraserhead.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Breathless.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Purple noon.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>9 songs [uncut].</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>An Inspector Calls.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>9 to 5 Days in Porn</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Latino Americans collection : Prejudice and Pride.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A Picture of You</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Beautiful Troublemaker.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Leave No Trace.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Antares</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Molly's theory of relativity.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Madness.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>American Experience : Stonewall Uprising.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Solaris.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Pygmalion.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Le Bonheur.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Victoria.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Behind Convent Walls .</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Matangi / Maya / M.I.A..</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>X rated.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>La Collectionneuse.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Mala Noche.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Fits.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Latino Americans collection : Empire of Dreams.</Column1>
+        <Column2>Access expires July 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The watermelon woman.</Column1>
+        <Column2>Access expires July 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>W.E.B. Du Bois: A Biography in Four Voices</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>John Cage - I Have Nothing to Say And I Am Saying It</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The way he looks = Hoje eu quero voltar sozinho.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Love affair, or, The case of the missing switchboard operator.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Listen Up Philip.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Ray &amp; Liz.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Memento.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Strange and Familiar: Architecture on Fogo Island</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Yojimbo.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Stalker.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A Ghost Story.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Lure.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>NOVA: The Violence Paradox.</Column1>
+        <Column2>Access expires January 31, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Precious Knowledge</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Corporate Coup D'etat.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Boys</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Dogtooth.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Ernest &amp; Celestine.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Advertising at the edge of the apocalypse /</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Un Coeur en Hiver (A Heart in Winter).</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>What's in a Name?</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Knife+Heart.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>On Chesil Beach.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Speaking in tongues.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Bookshop.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Maquilapolis.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Tomboy</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Vivre sa vie.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Almost adults.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>City lights.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Diego Maradona.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Captain Fantastic.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A cat in paris = Une vie de chat.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>They.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>La Chinoise</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The transfiguration.</Column1>
+        <Column2>Access expires December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Hooligan sparrow.</Column1>
+        <Column2>Access expires December 30, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Warning: This Drug May Kill You.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Tell It to the Bees.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>A Coffee in Berlin.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Oldboy.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>In the Mood for Love</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Seeing Red</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Wanda.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Mid90s.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The prison in twelve landscapes.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Chinese Take-Away</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>GTFO.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Ixcanul.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Last Season</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Anthropocene: The Human Epoch.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Enemy.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Ex Machina.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>For All Mankind - The Apollo Space Missions</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Offended</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Who is Dayani Cristal?.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Finding Oscar.</Column1>
+        <Column2>Access expires December 1, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Casanova Variations.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Science of Compassion and Self-Compassion</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>East side sushi.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Squid and the Whale.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Attention and Empathy in Relationships</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Pather Panchali</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Umbrellas of Cherbourg</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Herskovits at the heart of blackness.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Full moon in Paris = Les nuits de la pleine lune.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Haxan.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Under the Skin.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Wind Will Carry Us</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Daisies.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Amy.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Love and anarchy.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Mid-August Lunch.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>Shock corridor.</Column1>
+        <Column2>Access expires August 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>The Battle of Algiers.</Column1>
+        <Column2>Access expires April 1, 2021</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>True Justice.</Column1>
+        <Column2>Access ends December 31, 2020</Column2>
+      </Row>
+      <Row>
+        <Column0>0</Column0>
+        <Column1>8 1/2.</Column1>
+        <Column2>Access Expires May 1, 2021</Column2>
+      </Row>
+    </rowset>
+  </ResultXml>
+</QueryResult></report>

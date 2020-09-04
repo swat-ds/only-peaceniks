@@ -1,0 +1,27 @@
+/* Fonts */
+/* Larsseit */
+@font-face {
+    font-family: 'Larsseit';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Larsseit'), local('Larsseit'),
+         url(../fonts/Larsseit.woff) format('woff');
+  }
+
+$sans-serif: Larsseit, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;  
+
+/* Variables */
+$color-initial: #F7F7F7 !default;
+$color-primary: #474747 !default;
+$color-secondary: #016C8C !default;
+$link-hover-color: lighten($color-secondary, 10%) !default;
+
+$sans-serif: 'Larsseitt' -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+
+/* Imports */
+
+@import '~normalize.css/normalize.css';
+@import '~milligram/src/milligram.sass';
+@import 'ball-8bits';
+@import 'style';
+

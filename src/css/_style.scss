@@ -1,0 +1,74 @@
+body {
+    font-family: $sans-serif;
+
+    a:hover {
+        color: $link-hover-color;
+    }
+    padding-top: 3rem;
+    background-color: $color-initial;
+}
+
+#kanopy-list {
+
+    table { 
+        display: none; 
+        list-style: none;
+    }
+
+    #loading { 
+        display: block; 
+        div {
+            margin: 20% auto auto auto;
+        }
+    }
+}
+
+#kanopy-list.loaded {
+    #loading { display: none; }
+
+    table { display: block; }
+
+    table.dataTable thead .sorting_asc,
+    table.dataTable thead .sorting_desc {
+        background-image: unset;
+    }
+
+    td {
+        padding-left: 20px;
+    }
+
+    td h4 {
+        max-width: 35rem;
+    }
+
+    td img { 
+        width: 100px;
+        height: 150px;
+        border-radius: 2px;
+        box-shadow: 0 0 .25rem rgba(50, 50, 50, 0.5);
+    }
+
+    td img.no-thumb {
+        height: 150px;
+        background: center/cover url(../imgs/kanopy-logo.jpg);
+    }
+
+    td img.link {
+        width: 2rem;
+    }
+
+    span.link {
+        font-size: 1rem;
+        text-decoration: underline;
+
+        &::after{
+            content: url(../imgs/external-link.svg);
+            margin-left: .5rem;
+            opacity: .75;
+        }
+    }
+
+    #list_wrapper {
+        max-width: 97rem;
+    }
+}
